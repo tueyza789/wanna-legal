@@ -1,3 +1,4 @@
-# Wanna — legal pages
+# wanna-legal
 
-Privacy Policy, Terms and Support for the Wanna iOS app, generated from `server/src/pages.ts` (`node scripts/export-legal.mjs`).
+Wanna's legal pages now live on Wanna's own domain: https://wannna.app/privacy, /terms and /support (served by the
+Wanna server). These GitHub Pages only redirect there, so older links keep working.
